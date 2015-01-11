@@ -3,7 +3,7 @@
 {<body}
 <div class="content">
 	<h1 class="content-head is-center">About IAT</h1>
-	<p>The ‘I Am Talented’ programme is a social <a class="light-link" href="http://en.wikipedia.org/wiki/Youth_empowerment">empowerment</a> initiative for youth in Singapore.</p>
+	<p>The ‘I Am Talented’ programme is a social <a class="light-link" href="http://en.wikipedia.org/wiki/Youth_empowerment" target="_blank">empowerment</a> initiative for youth in Singapore.</p>
 
 	<p>The programme aims to allow students to explore areas of interest in non-academic career pathways, and is founded upon a two-fold model of <a class="light-link" href="#core-values">core values</a> and <a href="#skillsets">skillsets</a>.</p>
 
@@ -23,7 +23,7 @@
 	<h3 class="content-head is-center">Determination</h3>
 	<p>Determination refers to the attitude which IAT participants will develop and adopt during the programme; when encountering various challenges during the course of their learning.</p>
 	
-
+	<a name="skillsets"></a>
 	<h2 class="content-head is-center">Skillsets</h2>
 	<p>Skillsets refer to the new knowledge repositories that are offered to IAT participants through the different workshops. Some of these skillsets include communication skills, public speaking, musical competencies, entrepreneurial know-how, and the like.</p>
 </div>

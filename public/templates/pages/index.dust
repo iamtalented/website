@@ -8,7 +8,7 @@
             Now open for registration with several exciting courses.
         </p>
         <p>
-            <a href="/workshop/signup" class="pure-button pure-button-primary">Sign up!</a>
+            <a href="/2015/signup" class="pure-button pure-button-primary">Sign up!</a>
         </p>
     </div>
 </div>
@@ -23,7 +23,7 @@
                     About us
                 </h3>
                 <p>
-                    We are a social empowerment initiative for youth in Singapore, and aims to allow students to explore areas of interest in non-academic pathways. For more details check out our <a href="/about">About Us</a> page.
+                    We are a social empowerment initiative for youth in Singapore, and aims to allow students to explore areas of interest in non-academic pathways. For more details check out our <a class="light-link" href="/about">About Us</a> page.
                 </p>
             </div>
             <div class="l-box pure-u-1 pure-u-md-1-2 pure-u-lg-1-4">
@@ -31,7 +31,7 @@
                     Our history
                 </h3>
                 <p>
-                    We started out in 2011 as a small-scale community outreach seminar, under the auspices of United Nations Association of Singapore. Read more about our history <a href="/history">here</a>.
+                    We started out in 2011 as a small-scale community outreach seminar, under the auspices of United Nations Association of Singapore. Read more about our history <a class="light-link" href="/history">here</a>.
                 </p>
             </div>
             <div class="l-box pure-u-1 pure-u-md-1-2 pure-u-lg-1-4">
@@ -39,7 +39,7 @@
                     Our message
                 </h3>
                 <p>
-                    Wonder why we do what we do? See our lead's personal message <a href="/message">here</a>.
+                    Wonder why we do what we do? See our lead's personal message <a class="light-link" href="/message">here</a>.
                 </p>
             </div>
             <div class="l-box pure-u-1 pure-u-md-1-2 pure-u-lg-1-4">
@@ -47,7 +47,7 @@
                     Team
                 </h3>
                 <p>
-                    IAT is run by a small group of volunteers, with support from several organisations. Find out more about the team behind this initiative on our <a href="/team">team page</a>.
+                    IAT is run by a small group of volunteers, with support from several organisations. Find out more about the team behind this initiative on our <a class="light-link" href="/team">team page</a>.
                 </p>
             </div>
         </div>
@@ -59,7 +59,7 @@
             <h2 class="content-head content-head-ribbon">Wondering if this program is the right one for you?</h2>
 
             <p>
-                We have arranged for courses that spans across multiple disciplines, from introductory programming classes, to workshops on photography. We also have workshops that teach you how to build a robot, and even one on journalism. So head over to the <a class="dark-link" href="/workshop/list">list of workshops</a>, and check out our offerings today!
+                We have arranged for courses that spans across multiple disciplines, from introductory programming classes, to workshops on photography. We also have workshops that teach you how to build a robot, and even one on journalism. So head over to the <a class="dark-link" href="/2015/workshop/list">list of workshops</a>, and check out our offerings today!
             </p>
         </div>
     </div>

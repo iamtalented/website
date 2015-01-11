@@ -8,9 +8,13 @@
  * -- BASE STYLES --
  * Most of these are inherited from Base, but I want to change a few.
  */
+html {
+	height: 100%;
+}
 body {
+	height:100%;
     line-height: 1.7em;
-    color: #7f8c8d;
+    color: #000000;
     font-size: 13px;
 }
 
@@ -217,7 +221,9 @@ a.pure-button-primary {
 
 /* This is the class used for the footer */
 .footer {
+	margin-top: 16px;
     background: #111;
+    color:#7F8C8D;
 }
 
 /*

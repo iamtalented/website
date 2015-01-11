@@ -1,0 +1,9 @@
+{>"layouts/master" /}
+{<body}
+<div class="content">
+	<h1 class="content-head is-center">Sign Ups</h1>
+
+	<p class="is-center">Registration is not open at this point in time. Please check back again later.</p>
+
+</div>
+{/body}
