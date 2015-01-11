@@ -3,7 +3,7 @@
 {<body}
 <div class="splash-container" style="height:600px">
     <div class="splash">
-    	<img src="/img/iatlogo.png">
+    	<img class="splash-logo" src="/img/iatlogo.png">
         <p class="splash-subhead">
             Now open for registration with several exciting courses.
         </p>
@@ -60,9 +60,13 @@
         </div>
     </div>
     <div class="content">
-        <h2 class="content-head is-center">Still uncertain?</h2>
+        <div class="pure-g">
+            <div class="l-box pure-u-1">
+                <h2 class="content-head is-center">Still uncertain?</h2>
 
-       <p>Use the chat window on the bottom right hand corner of the page to send us your questions, and we will have a conversation with you to find out what you are really looking for.</p>
+                <p>Use the chat window on the bottom right hand corner of the page to send us your questions, and we will have a conversation with you to find out what you are really looking for.</p>
+            </div>
+        </div>
     </div>
 
     <div class="footer l-box is-center">

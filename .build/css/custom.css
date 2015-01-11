@@ -226,6 +226,11 @@ a.pure-button-primary {
     color:#7F8C8D;
 }
 
+@media (max-width: 460px) {
+    .splash-logo {
+        width: 100%
+    }
+}
 /*
  * -- TABLET (AND UP) MEDIA QUERIES --
  * On tablets and other medium-sized devices, we want to customize some
@@ -266,6 +271,8 @@ a.pure-button-primary {
 
     .splash-head {
         font-size: 250%;
+    }
+    .splash-logo {
     }
 
 

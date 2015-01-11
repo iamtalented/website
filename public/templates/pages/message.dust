@@ -2,16 +2,20 @@
 
 {<body}
 <div class="content">
-	<h1 class="content-head is-center">Our message</h1>
-	<p>Every single one of us is <i>outrageously</i> talented, but I wonder how many of us actually realise that? We live in a society whereby our worth or talents as youth, are defined primarily by the grades or performance in a school setting; or by the praises that others shower upon us. These are not wrong; yet above and beyond grades, are there other ways of realising our talents?</p>
+	<div class="pure-g">
+		<div class="l-box pure-u-1">
+			<h1 class="content-head is-center">Our message</h1>
+			<p>Every single one of us is <i>outrageously</i> talented, but I wonder how many of us actually realise that? We live in a society whereby our worth or talents as youth, are defined primarily by the grades or performance in a school setting; or by the praises that others shower upon us. These are not wrong; yet above and beyond grades, are there other ways of realising our talents?</p>
 
-	<p>It is for this very reason that IAT was conceived in 2011, with the objectives of letting you discover your talents by exploring something you’re interested in – but not typically offered in a classroom setting. By intentionally making time for IAT, you’ll go through a process that’ll enable you to discover more about yourself. It’s only through self-discovery that we begin to find out what we are <i>passionate</i> about, and <i>good</i> at.</p>
+			<p>It is for this very reason that IAT was conceived in 2011, with the objectives of letting you discover your talents by exploring something you’re interested in – but not typically offered in a classroom setting. By intentionally making time for IAT, you’ll go through a process that’ll enable you to discover more about yourself. It’s only through self-discovery that we begin to find out what we are <i>passionate</i> about, and <i>good</i> at.</p>
 
-	<p>You are <i>outrageously</i> talented – make time to discover your talents with us. 
+			<p>You are <i>outrageously</i> talented – make time to discover your talents with us.</p>
 
-	<p><i>David Hoe</i><br />
+			<p><i>David Hoe</i><br />
 
-	<i>Head, IAT Executive Committee</i></p>
+			<i>Head, IAT Executive Committee</i></p>
+		</div>
+	</div>
 </div>
 {/body}
 
