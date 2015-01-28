@@ -219,6 +219,13 @@ a.pure-button-primary {
     color: #aaa;
 }
 
+.cdc-team-logo{
+    float:left;
+    margin:10px;
+    max-width: 500px;
+    width:50%;
+}
+
 /* This is the class used for the footer */
 .footer {
 	margin-top: 16px;
@@ -229,6 +236,10 @@ a.pure-button-primary {
 @media (max-width: 460px) {
     .splash-logo {
         width: 100%
+    }
+    .cdc-team-logo{
+        margin: 10px;
+        width: 100%;
     }
 }
 /*
