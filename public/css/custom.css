@@ -240,11 +240,28 @@ a.pure-button-primary {
     margin-right: 32px;
     margin-bottom: 16px;
 }
+#sponsor-box{
+    width: 700px;
+    margin:auto;
+}
+.sponsor-image{
+    max-width: 200px;
+    width: 200px;
+    float: left;
+    margin: 16px;
+}
 /* This is the class used for the footer */
 .footer {
 	margin-top: 16px;
     background: #111;
     color:#7F8C8D;
+}
+
+@media (max-width: 700px) {
+    #sponsor-box{
+        width: 200px;
+        margin:auto;
+    }
 }
 
 @media (max-width: 460px) {
@@ -255,6 +272,8 @@ a.pure-button-primary {
         margin: 10px;
         width: 100%;
     }
+
+    
 }
 /*
  * -- TABLET (AND UP) MEDIA QUERIES --

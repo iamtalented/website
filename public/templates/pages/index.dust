@@ -62,9 +62,12 @@
     <div class="content">
         <div class="pure-g">
             <div class="l-box pure-u-1">
-                <h2 class="content-head is-center">Still uncertain?</h2>
-
-                <p>Use the chat window on the bottom right hand corner of the page to send us your questions, and we will have a conversation with you to find out what you are really looking for.</p>
+                <div id="sponsor-box" class="end-float">
+                    <h2 class="content-head is-center">Partners</h2>
+                    <a href="http://www.meetup.com/Singapore-Ruby-Group/" target="_blank"><img class="sponsor-image" src="/img/2015/sponsors/rubysg.jpeg"></a>
+                    <a href="http://nikon.com/" target="_blank"><img class="sponsor-image" src="/img/2015/sponsors/nikon.png"></a>
+                    <a href="http://bookcouncil.sg/" target="_blank"><img class="sponsor-image" src="/img/2015/sponsors/nationalbookdevelopmentcouncil.png"></a>
+                </div>
             </div>
         </div>
     </div>
