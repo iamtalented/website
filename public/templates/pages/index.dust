@@ -8,7 +8,8 @@
             Now open for registration
         </p>
         <p>
-            <a href="/2015/signup" class="pure-button pure-button-primary">Sign up!</a>
+            <a href="/2015/signup" class="pure-button pure-button-primary" style="margin-left:16px; margin-right: 16px; margin-bottom: 16px">Sign up!</a>
+            <a href="/2015/" class="pure-button pure-button-primary">Find out more!</a>
         </p>
     </div>
 </div>

@@ -35,7 +35,7 @@
         <a class="pure-menu-heading" href="/"><img src="/img/iatlogo1.png" class="nav-logo"></a>
         <ul id="nav-bar">
             <li><a href="/about">About</a></li>
-            <li><a href="/team">Team</a></li>
+            <li><a href="/2015/signup">Sign Up</a></li>
             <li><a href="/2015/">2015 Schedule</a></li>
         </ul>
     </div>
