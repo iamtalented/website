@@ -236,14 +236,14 @@ label {
     margin-bottom: 16px;
 }
 #sponsor-box{
-    width: 700px;
-    margin:auto;
+    width: 438px;
+    margin:0px auto;
 }
 .sponsor-image{
-    max-width: 200px;
-    width: 200px;
+    max-width: 130px;
+    width: 130px;
     float: left;
-    margin: 16px;
+    margin-right: 16px;
 }
 
 .button-success,
@@ -279,7 +279,7 @@ label {
 
 @media (max-width: 700px) {
     #sponsor-box{
-        width: 200px;
+        width: 130px;
         margin:auto;
     }
 }
