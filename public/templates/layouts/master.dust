@@ -2,11 +2,12 @@
 <html lang="en">
 <head>
     <meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta name="description" content="IAmtTalented - A social empowerment initiative">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="IAmtTalented - A social empowerment initiative">
 
     <title>IAmTalented</title>
-	<link rel="stylesheet" href="/css/pure-min.css">
+    <link rel="shortcut icon" type="image/png" href="/favicon.png" />
+    <link rel="stylesheet" href="/css/pure-min.css">
 
 <!--[if lte IE 8]>
   
@@ -19,7 +20,7 @@
   
 <!--<![endif]-->
 
-	<link rel="stylesheet" href="/css/font-awesome.css">
+    <link rel="stylesheet" href="/css/font-awesome.css">
     
 <!--[if lt IE 9]>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7/html5shiv.js"></script>
