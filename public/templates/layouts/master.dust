@@ -38,7 +38,7 @@
             <li><a href="/team">Team</a></li>
             <li><a href="/2015/signup">Sign Up</a></li>
             <li><a href="/2015/">Details</a></li>
-            <li><a href="https://www.facebook.com/iatsg" target="_blank"><img src="https://www.facebook.com/images/fb_icon_325x325.png" style="width:32px"></a></li>
+            <li><a href="https://www.facebook.com/iatsg" target="_blank"><img src="/img/fb_icon.png" style="width:32px"></a></li>
         </ul>
     </div>
 </div>
