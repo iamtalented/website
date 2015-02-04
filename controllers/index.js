@@ -16,10 +16,4 @@ module.exports = function (router) {
     router.get('/message', function (req, res) {
         res.render('pages/message');
     });
-
-
-    router.get('/history', function (req, res) {
-        res.render('pages/history');
-    });
-
 };

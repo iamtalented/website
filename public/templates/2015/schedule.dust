@@ -1,6 +1,6 @@
 <div class="l-box pure-u-1">
 	<a name="schedule"></a>
-	<h1 class="content-head is-center">Schedule</h1>
+	<h1 class="content-head">Schedule</h1>
 	<h4>7th March 2015</h4>
 	<table class="pure-table pure-table-striped">
 		<thead>
@@ -138,62 +138,6 @@
 				<td>End of Day 3</td>
 				<td></td>
 			</tr>
-		</tbody>
-	</table>
-
-	<a name="training-locations"></a>
-	<h4>Workshop Locations</h4>
-	<table class="pure-table pure-table-bordered">
-		<thead>
-			<tr>
-				<th>Activity</th>
-				<th>Location</th>
-			</tr>
-		</thead>
-		<tbody>
-			<tr>
-				<td>Photography</td>
-				<td>Lecture Room 23 (K4-01)</td>
-			</tr>
-			<tr>
-				<td rowspan="2">Public Speaking</td>
-				<td>Lecture Room 24 (K4-02)</td>
-			</tr>
-			<tr>
-				<td>Lecture Room 25 (K4-03)</td>
-			</tr>
-			<tr>
-				<td>Entrepreneurship</td>
-				<td>Lecture Room 25 (K4-04)</td>
-			</tr>
-			<tr>
-				<td>Mobile App and Game Workshop</td>
-				<td>IDA Lab on Wheels @ Bus Bay 2</td>
-			</tr>
-			<tr>
-				<td rowspan="2">Robotics</td>
-				<td>Blk J, IT Room 11 (J4-12)</td>
-			</tr>
-			<tr>
-				<td>Blk J, IT Room 12 (J4-13)</td>
-			</tr>
-			<tr>
-				<td>Website Building</td>
-				<td>Blk J, IT Room 13 (J4-14)</td>
-			</tr>
-			<tr>
-				<td>Journalism</td>
-				<td>Blk J, IT Room 14 (J4-15)</td>
-			</tr>
-			<tr>
-				<td>The Write Stuff</td>
-				<td>Blk J, IT Room 15 (J4-16)</td>
-			</tr>
-			<tr>
-				<td>Fashion Design</td>
-				<td>Lecture Room 27 (K4-06)</td>
-			</tr>
-
 		</tbody>
 	</table>
 </div>

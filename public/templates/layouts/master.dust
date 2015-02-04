@@ -32,11 +32,13 @@
 
 <div class="header">
     <div class="home-menu pure-menu pure-menu-open pure-menu-horizontal pure-menu-fixed">
-        <a class="pure-menu-heading" href="/"><img src="/img/iatlogo1.png" class="nav-logo"></a>
+        <a class="pure-menu-heading" href="/"><img src="/img/iatlogo3.png" class="nav-logo"></a>
         <ul id="nav-bar">
             <li><a href="/about">About</a></li>
+            <li><a href="/team">Team</a></li>
             <li><a href="/2015/signup">Sign Up</a></li>
-            <li><a href="/2015/">2015 Schedule</a></li>
+            <li><a href="/2015/">Details</a></li>
+            <li><a href="https://www.facebook.com/iatsg" target="_blank"><img src="https://www.facebook.com/images/fb_icon_325x325.png" style="width:32px"></a></li>
         </ul>
     </div>
 </div>
