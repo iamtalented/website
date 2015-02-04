@@ -214,10 +214,11 @@ label {
 }
 
 .cdc-team-logo{
-    margin:10px;
-    width:480px;
-    margin: 0 auto;
-    display: block;
+    max-width: 200px;
+    max-height: 200px;
+    float: left;
+    margin-right: 32px;
+    margin-bottom: 16px;
 }
 .end-float{
     clear: both;
