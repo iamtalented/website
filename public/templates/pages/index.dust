@@ -3,40 +3,41 @@
 {<body}
 <div class="splash-container" style="height:600px">
     <div class="splash">
-    	<img class="splash-logo" src="/img/iatlogo1.png">
+    	<img class="splash-logo" src="/img/iatlogo4.png">
         <p class="splash-subhead">
-            Now open for registration with several exciting courses.
+            Register for IAT 2015 now!
         </p>
         <p>
-            <a href="/2015/signup" class="pure-button pure-button-primary">Sign up!</a>
+            <a href="/2015/signup" class="pure-button pure-button-primary" style="margin-left:16px; margin-right: 16px; margin-bottom: 16px">Sign up!</a>
+            <a href="/2015/" class="pure-button pure-button-secondary">2015 Programme</a>
         </p>
     </div>
 </div>
 <div class="content-wrapper">
     <div class="content">
-        <h2 class="content-head is-center">Find out more about us in the following links</h2>
+        <h2 class="content-head is-center">Find out more about us</h2>
 
         <div class="pure-g">
             <div class="l-box pure-u-1 pure-u-md-1-2 pure-u-lg-1-4">
 
                 <h3 class="content-subhead">
-                    About us
+                    About Us
                 </h3>
                 <p>
-                    We are a social empowerment initiative for youth in Singapore, and aims to allow students to explore areas of interest in non-academic pathways. For more details check out our <a class="light-link" href="/about">About Us</a> page.
+                    We are a social empowerment initiative for youth in Singapore, and aim to allow students to explore areas of interest in non-academic pathways. For more details check out our <a class="light-link" href="/about">About Us</a> page.
                 </p>
             </div>
             <div class="l-box pure-u-1 pure-u-md-1-2 pure-u-lg-1-4">
                 <h3 class="content-subhead">
-                    Our history
+                    Our History
                 </h3>
                 <p>
-                    We started out in 2011 as a small-scale community outreach seminar, under the auspices of United Nations Association of Singapore. Read more about our history <a class="light-link" href="/history">here</a>.
+                    We started out in 2011 as a small-scale community outreach seminar, under the auspices of the United Nations Association of Singapore. Read more about our history<a class="light-link" href="/about#history">here</a>.
                 </p>
             </div>
             <div class="l-box pure-u-1 pure-u-md-1-2 pure-u-lg-1-4">
                 <h3 class="content-subhead">
-                    Our message
+                    Our Message
                 </h3>
                 <p>
                     Wonder why we do what we do? See our lead's personal message <a class="light-link" href="/message">here</a>.
@@ -44,7 +45,7 @@
             </div>
             <div class="l-box pure-u-1 pure-u-md-1-2 pure-u-lg-1-4">
                 <h3 class="content-subhead">
-                    Team
+                    The Team
                 </h3>
                 <p>
                     IAT is run by a small group of volunteers, with support from several organisations. Find out more about the team behind this initiative on our <a class="light-link" href="/team">team page</a>.
@@ -55,16 +56,19 @@
 
     <div class="ribbon l-box-lrg pure-g">
         <div class="pure-u-1 content">
-            <h2 class="content-head content-head-ribbon">Wondering if this program is the right one for you?</h2>
-            <p>We have arranged for courses that spans across multiple disciplines, from introductory programming classes, to workshops on photography. We also have workshops that teach you how to build a robot, and even one on journalism. So head over to the <a class="dark-link" href="/2015/workshop/list">list of workshops</a>, and check out our offerings today!</p>
+            <h2 class="content-head content-head-ribbon">Is this the right programme for you?</h2>
+            <p>We have arranged for courses which span across multiple disciplines, from introductory programming classes to workshops on photography. A budding inventor or a reporter? We also have workshops which will teach you how to build a robot, as well as one on journalism. So head over to check out our <a class="dark-link" href="/2015/#workshops">list of workshops</a>!</p>
         </div>
     </div>
     <div class="content">
         <div class="pure-g">
             <div class="l-box pure-u-1">
-                <h2 class="content-head is-center">Still uncertain?</h2>
-
-                <p>Use the chat window on the bottom right hand corner of the page to send us your questions, and we will have a conversation with you to find out what you are really looking for.</p>
+                <div id="sponsor-box" class="end-float">
+                    <h2 class="content-head is-center">Sponsors</h2>
+                    <a href="http://nikon.com/" target="_blank"><img class="sponsor-image" src="/img/2015/sponsors/nikon.png"></a>
+                    <a href="http://www.richardgavriel.com/" target="_blank"><img class="sponsor-image" src="/img/2015/sponsors/rgsm.jpg"></a>
+                    <a href="http://www.meetup.com/Singapore-Ruby-Group/" target="_blank"><img class="sponsor-image" src="/img/2015/sponsors/rubysg.jpeg"></a>
+                </div>
             </div>
         </div>
     </div>

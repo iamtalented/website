@@ -5,7 +5,7 @@
 		<div class="l-box pure-u-1">
 			<h1 class="content-head is-center">The IAT Team</h1>
 
-			<p>The IAT 2015 Team comprises the <a class="light-link" href="#exco">Executive Committee</a>; made up of a group of youth who believe fervently in the concept of ‘paying it forward’. Helmed by IAT founder and youth developer David Hoe, the team comprises individuals with a heart for the community and possessing a multiplicity of interests and strengths.IAT 2015 is organised in partnership with the <a class="light-link" href="#cdc">Central Singapore Community Development Council (CS-CDC)</a>. </p>
+			<p>The IAT 2015 Team comprises the <a class="light-link" href="#exco">Executive Committee</a>; made up of a group of youth who believe fervently in the concept of ‘paying it forward’. Helmed by IAT founder and youth developer David Hoe, the team comprises individuals with a heart for the community and possessing a multiplicity of interests and strengths. IAT 2015 is organised in partnership with the <a class="light-link" href="#cdc">Central Singapore Community Development Council (CS-CDC)</a>. </p>
 
 			<a name="exco"></a>
 			<h2 class="content-head is-center">IAT 2015 EXCO</h2>
@@ -14,14 +14,50 @@
 
 			<p>The IAT 2015 EXCO is made up of the following six individuals:</p>
 
-			<ul>
-				<li> David Hoe </li>
-				<li> Kwan Jin Yao </li>
-				<li> Laurence Franslay </li>
-				<li> Nur Fadhilla </li>
-				<li> Maurice Goh </li>
-				<li> Melvin Tay </li>
-			</ul>
+			<div class="profile end-float">
+				<img class="profile-photo" src="/img/team/david_hoe.png">
+				<div class="profile-text">
+					<h3>David Hoe</h3>
+					<p>David Hoe is a final semester Economics Undergraduate at the National University of Singapore. Unlike his peers, he took an educational route less traveled. He did 4 years of his secondary school education in the Normal Technical Stream and with diligence; and fought his way to university. He does not claim to have achieved this much because of his sheer strength, but attributes it to many people who have invested in his life. Hence, he is a firm believer of ‘Paying it Forward’. This has led him to found a number of mentoring and youth development programs; I Am Talented is one of them. In 2014, he was featured in Singapore’s annual National Day Parade as one of the nation’s Everyday Hero, and was recently awarded the Commonwealth Youth Award for Excellence in Development Work in 2015. At the core of it, David believes in empowering every single young individual to reach his or her fullest potential. Everyone is Talented; we just need to come on a journey of Discovery.</p>
+				</div>
+			</div>
+			<div class="profile end-float">
+				<img class="profile-photo" src="/img/team/jinyao.png">
+				<div class="profile-text">
+					<h3>Kwan Jin Yao</h3>
+					<p>Jin Yao is a writer at guanyinmiao's musings, where he focuses on Singapore's education system, community service and volunteerism, as well as National Service. He has been blogging since 2009. Jin Yao was also a writer for the now-defunct Breakfast Network in 2013, a local independent news website, and contributed to SALT in 2014, an online platform of the National Volunteer and Philanthropy Centre.</p>
+
+					<p>He is an undergraduate at the National University of Singapore, and a board member with the United Nations Association of Singapore.</p>
+				</div>
+			</div>
+			<div class="profile end-float">
+				<img class="profile-photo" src="/img/team/laurence.png">
+				<div class="profile-text">
+					<h3>Laurence Putra</h3>
+					<p>Laurence is a hacker who used to organise the region’s largest all geek event, GeekcampSG, and currently sits on the Singapore Python User Group committee, as well as running programmes for at-risk students. In his free time, he hacks out tools to solve his personal pain points, as well as contributes to government movements to promote technology education in Singapore. He is currently working in PayPal Pte Ltd as Regional Solutions Engineer.</p>
+				</div>
+			</div>
+			<div class="profile end-float">
+				<img class="profile-photo" src="/img/team/nurfadhilla.png">
+				<div class="profile-text">
+					<h3>Nur Fadhilla</h3>
+					Nurfadhilla Kamarul is an Interpreter at the State Courts. She recently graduated with a Master of Science in International Relations from S. Rajaratnam School of International Studies, NTU. She has a keen interest in current affairs and had previously worked as a broadcast journalist in the Malay News &amp; Current Affairs department at MediaCorp. In her free time, she enjoys reading, volunteer work and traveling. She hopes to embark on a travel exploration around the world soon.
+				</div>
+			</div>
+			<div class="profile end-float">
+				<img class="profile-photo" src="/img/team/maurice.png">
+				<div class="profile-text">
+					<h3>Maurice Goh</h3>
+					<p>Maurice Goh is a part time business owner and full time dad certified in PMP®, CIA, CISSP, CISA, CISM and Master of Information Technology from QUT, Brisbane. Unlike his peers, he was medically weak and took an educational route less traveled in his Primary school education in Extended stream. He is grateful for the good mentors who have helped him to discover his directions, strengths and identity.</p>
+				</div>
+			</div>
+			<div class="profile end-float">
+				<img class="profile-photo" src="/img/team/melvin_tay.png">
+				<div class="profile-text">
+					<h3>Melvin Tay</h3>
+					<p>Melvin is a Masters student of Political Science at the National University of Singapore, and a researcher at the Global Production Networks Centre based at the university. Some of his pursuits thus far include academic ghostwriting, graphic design, and solo backpacking. He is interested in ground-up social initiatives that seek to mend public policy gaps - such as IAT. He is also the founder of Elfinity, a small-scale start-up that advocates <a href="http://en.wikipedia.org/wiki/Disruptive_innovation" target="_blank">disruptive innovation</a> in governance.</p>
+				</div>
+			</div>
 
 			<a name="cdc"></a>
 			<h2 class="content-head is-center">Central Singapore Community Development Council</h2>

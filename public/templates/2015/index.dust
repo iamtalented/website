@@ -1,0 +1,14 @@
+{>"layouts/master" /}
+{<body}
+<div class="content">
+	<div class="pure-g">
+		<div class="l-box pure-u-1">
+			<p><a href="#generalinfo">General Information</a> | <a href="#schedule">Schedule</a> | <a href="#workshops">Workshops</a> | <a href="#speakers">Speakers</a></p>
+		</div>
+		{>"2015/generalinfo" /}
+		{>"2015/schedule" /}
+		{>"2015/workshop-list" /}
+		{>"2015/speakers" /}
+	</div>
+</div>
+{/body}
