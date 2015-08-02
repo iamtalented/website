@@ -8,11 +8,11 @@ module.exports = function jshint(grunt) {
 	// Options
 	return {
 		files: [
-            'controllers/**/*.js',
-            'models/**/*.js'
-        ],
+			'controllers/**/*.js',
+			'models/**/*.js'
+		],
 		options: {
-		    jshintrc: '.jshintrc'
+			jshintrc: '.jshintrc'
 		}
 	};
 };
