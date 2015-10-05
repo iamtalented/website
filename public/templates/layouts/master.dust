@@ -33,7 +33,7 @@
 
 <div class="header">
     <div class="home-menu pure-menu pure-menu-open pure-menu-horizontal pure-menu-fixed">
-        <a class="pure-menu-heading" href="/"><img src="/img/iatlogo3.png" class="nav-logo"></a>
+        <a class="pure-menu-heading" href="/"><img src="/img/iatlogo5.png" class="nav-logo"></a>
         <ul id="nav-bar">
             <li><a href="/about">About</a></li>
             <li><a href="/team">Team</a></li>
