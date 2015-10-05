@@ -370,3 +370,9 @@ label {
 .dark-link{
 	color: white;
 }
+
+.media-pdf{
+    width: 100%;
+    max-width: 800px;
+    height: 600px;
+}
