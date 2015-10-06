@@ -5,11 +5,20 @@
     <div class="splash">
     	<img class="splash-logo" src="/img/iatlogo5.png">
         <p class="splash-subhead">
-            Register for IAT 2015 now!
+            Sign up for our mailing list to get updates for IAT2016!
         </p>
         <p>
-            <a href="/2015/signup" class="pure-button pure-button-primary" style="margin-left:16px; margin-right: 16px; margin-bottom: 16px">Sign up!</a>
-            <a href="/2015/" class="pure-button pure-button-secondary">2015 Programme</a>
+<!-- Begin MailChimp Signup Form -->
+<div id="mc_embed_signup">
+<form class="pure-form" action="//iamtalented.us11.list-manage.com/subscribe/post?u=cc570bb3f7f0839471a83633c&amp;id=f59aa4706c" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+    <fieldset>
+    <input type="email" placeholder="Email" name="EMAIL">
+    <button type="submit" name="subscribe" style="margin-left:16px" class="pure-button pure-button-primary">Subscribe</button>
+    </fieldset>
+</form>
+</div>
+
+<!--End mc_embed_signup-->
         </p>
     </div>
 </div>
