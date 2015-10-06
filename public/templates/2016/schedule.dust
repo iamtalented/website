@@ -1,0 +1,110 @@
+<div class="l-box pure-u-1">
+	<a name="schedule"></a>
+	<h1 class="content-head">Schedule</h1>
+	<h4>12th March 2016</h4>
+	<table class="pure-table pure-table-striped">
+		<thead>
+			<tr>
+				<th>Time</th>
+				<th>Activity</th>
+				<th>Location</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td>9:00am</td>
+				<td>Registration<br/>* Breakfast will be provided</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td>9:30am</td>
+				<td>Opening Address by Ms Denise Phua, Mayor, Central Singapore CDC 
+				<br/>Course Overview by Mr David Hoe, Head IAT2016</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td>9:50am</td>
+				<td>Programme Orientation</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td>10:30am</td>
+				<td>Workshop Session 1</td>
+				<td></td>
+			</tr>
+			<tr class="table-break">
+				<td>1.00pm</td>
+				<td>Lunch</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td>1:30pm</td>
+				<td>Workshop Session 2</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td>4:30pm</td>
+				<td>Sharing session - TBC</td>
+				<td></td>
+			</tr>
+			<tr class="table-break">
+				<td>5:30pm</td>
+				<td>End of Day 1</td>
+				<td></td>
+			</tr>
+		</tbody>
+	</table>
+
+	<h4>19th March 2016</h4>
+	<table class="pure-table pure-table-striped">
+		<thead>
+			<tr>
+				<th>Time</th>
+				<th>Activity</th>
+				<th>Location</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td>9:30am</td>
+				<td>Registration<br/>* Breakfast will be provided</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td>10:00am</td>
+				<td>Workshop Session 3</td>
+				<td></td>
+			</tr>
+			<tr class="table-break">
+				<td>1.00pm</td>
+				<td>Lunch</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td>1:30pm</td>
+				<td>Preparation for Showcase Finale</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td>2.00pm</td>
+				<td>Finale Showcase</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td>3.30pm</td>
+				<td>Sharing session - TBC</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td>4.30pm</td>
+				<td>Closing Address - David Hoe, Head of IAT 2016</td>
+				<td></td>
+			</tr>
+			<tr class="table-break">
+				<td>5:00pm</td>
+				<td>End of Day 2</td>
+				<td></td>
+			</tr>
+		</tbody>
+	</table>
+</div>

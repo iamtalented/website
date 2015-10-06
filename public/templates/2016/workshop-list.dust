@@ -1,0 +1,50 @@
+<div class="l-box pure-u-1">
+	<a name="workshops"></a>
+	<h1 class="content-head">Workshops</h1>
+	<table class="pure-table pure-table-striped">
+		<thead>
+			<tr>
+				<th>Workshop</th>
+				<th>Description</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td>Photography</td>
+				<td>Learn more about the basics of photography and how to take better photos from Nikon & Friends!</td>
+			</tr>
+			<tr>
+				<td>Public Speaking</td>
+				<td>Overcome your fears in public speaking, and create a more confident you. </td>
+			</tr>
+			<tr>
+				<td>Entrepreneurship</td>
+				<td>Creating the ‘WOW’ factors in building a sustainable business.</td>
+			</tr>
+			<tr>
+				<td>Mobile App and Gaming</td>
+				<td>Build a game using the ‘Unity’ engine.</td>
+			</tr>
+			<tr>
+				<td>Robotics</td>
+				<td>Miniature tabletop gaming. Build Robots. Code. Conquer. </td>
+			</tr>
+			<tr>
+				<td>Website Building</td>
+				<td>Learn how to take control of ‘Ruby’, and master the basics of building a website.</td>
+			</tr>
+			<tr>
+				<td>Journalism</td>
+				<td>How do you find and write a good story? What is the difference between a journalist and a writer?</td>
+			</tr>
+			<tr>
+				<td>Screenwriting Fundamentals</td>
+				<td>Learn to write using the basic principles of screenwriting such as plot points, character development and dialogue.</td>
+			</tr>
+			<tr>
+				<td>Fashion Design</td>
+				<td>Produce a collection based on a chosen theme.</td>
+			</tr>
+		</tbody>
+	</table>
+</div>
