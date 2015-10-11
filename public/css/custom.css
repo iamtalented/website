@@ -254,7 +254,6 @@ label {
 }
 /* This is the class used for the footer */
 .footer {
-	margin-top: 16px;
     background: #111;
     color:#7F8C8D;
 }
@@ -353,8 +352,13 @@ label {
 	color: white;
 }
 
-.media-pdf{
+.media-image{
     width: 100%;
     max-width: 800px;
-    height: 600px;
+    margin:auto;
+}
+
+#media-box{
+    max-width: 800px;
+    margin:auto;
 }
