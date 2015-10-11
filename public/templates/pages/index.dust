@@ -84,8 +84,13 @@
     <div class="ribbon l-box-lrg pure-g">
         <div class="pure-u-1 content">
             <h2 class="content-head content-head-ribbon">Media</h2>
-            <iframe src="/img/voices.pdf#view=fit" class="media-pdf"></iframe>
-            <p><a class="dark-link" href="http://www.centralsingaporecdc.org.sg/wp-content/uploads/2015/07/VOICES_Jul-Sep_5_Issue_76_V3.pdf" target="_blank">Central CDC Voices Magazine</a></p>
+            <div id="media-box" class="end-float">
+                <h3 class="content-head content-head-ribbon">Central CDC Voices Magazine</h3>
+                <a class="dark-link" href="http://www.centralsingaporecdc.org.sg/wp-content/uploads/2015/07/VOICES_Jul-Sep_5_Issue_76_V3.pdf" target="_blank"><img src="/img/voices.jpg" class="media-image"></a>
+
+                <h3 class="content-head content-head-ribbon">Straits Times video on our founder</h3>
+                <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" id="player-element" width="512" height="288" codebase="http://fpdownload.macromedia.com/get/flashplayer/current/swflash.cab"><param name="movie" value="http://static.movideo.com/flash/movideo_player.swf" /><param name="quality" value="high" /><param name="bgcolor" value="#000000" /><param name="allowScriptAccess" value="always" /><param name="allowFullScreen" value="true" /><param name="wmode" value="window" /><param name="flashVars" value="apiKey=movideoSingPressHold&alias=STFlash&playerId=movideoSingPressHold_STFlash_1444528163263&mediaId=791821"/><embed src="http://static.movideo.com/flash/movideo_player.swf" quality="high" bgcolor="#000000" width="512" height="288" name="player-element" align="middle" play="true" loop="false" quality="high" allowScriptAccess="always" allowFullScreen="true" type="application/x-shockwave-flash" wmode="window" pluginspage="http://www.adobe.com/go/getflashplayer" flashVars="apiKey=movideoSingPressHold&alias=STFlash&playerId=movideoSingPressHold_STFlash_1444528163263&mediaId=791821"></embed></object>
+            </div>
         </div>
     </div>
     <div class="footer l-box is-center">
