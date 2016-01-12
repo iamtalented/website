@@ -74,9 +74,9 @@
             <div class="l-box pure-u-1">
                 <div id="sponsor-box" class="end-float">
                     <h2 class="content-head is-center">Sponsors</h2>
-                    <a href="http://nikon.com/" target="_blank"><img class="sponsor-image" src="/img/2015/sponsors/nikon.png"></a>
-                    <a href="http://www.richardgavriel.com/" target="_blank"><img class="sponsor-image" src="/img/2015/sponsors/rgsm.jpg"></a>
-                    <a href="http://www.meetup.com/Singapore-Ruby-Group/" target="_blank"><img class="sponsor-image" src="/img/2015/sponsors/rubysg.jpeg"></a>
+                    <a href="http://www.hoiio.com/" target="_blank"><img class="sponsor-image" src="/img/sponsors/hoiio.png"></a>
+                    <a href="http://nikon.com/" target="_blank"><img class="sponsor-image" src="/img/sponsors/nikon.png"></a>
+                    <a href="http://www.meetup.com/Singapore-Ruby-Group/" target="_blank"><img class="sponsor-image" src="/img/sponsors/rubysg.jpeg"></a>
                 </div>
             </div>
         </div>
