@@ -9,53 +9,65 @@
 			</tr>
 		</thead>
 		<tbody>
-			<tr>
-				<td>Photography</td>
-				<td>Learn more about the basics of photography and how to take better photos!</td>
+		    <tr>
+				<td>Broadcast Journalism</td>
+				<td>Talk to people. Write a story. Get published.</td>
+			</tr>
+		    <tr>
+				<td>Build Models with 3D Printers</td>
+				<td>Bring your own designs to life using 3D printing technology!</td>
 			</tr>
 			<tr>
-				<td>Public Speaking</td>
-				<td>Overcome your fears in public speaking, and create a more confident you.</td>
+				<td>Dance</td>
+				<td>To touch, to move, to inspire. Learn the true gift of dance.</td>
 			</tr>
-			<tr>
-				<td>Entrepreneurship</td>
-				<td>Creating the ‘WOW’ factors in building a sustainable business.</td>
-			</tr>
-			<tr>
-				<td>Mobile App and Gaming</td>
-				<td>TBC</td>
-			</tr>
-			<tr>
-				<td>Robotics</td>
-				<td>Miniature tabletop gaming. Build Robots. Code. Conquer. </td>
-			</tr>
-			<tr>
-				<td>Website Building</td>
-				<td>Learn how to take control of ‘Ruby’, and master the basics of building a website.</td>
-			</tr>
-			<tr>
-				<td>Journalism</td>
-				<td>How do you find and write a good story? What is the difference between a journalist and a writer?</td>
+		    <tr>
+				<td>Digital Illustration</td>
+				<td>Learn the skills of digital drawing and painting.</td>
 			</tr>
 			<tr>
 				<td>Fashion Design</td>
-				<td>Produce a collection based on a chosen theme.</td>
+				<td>Learn how to develop fabric prints from your own ideas and inspiration from nature.</td>
 			</tr>
 			<tr>
-				<td>Song Writing</td>
-				<td>TBC</td>
+				<td>Guest Relations Management</td>
+				<td>Learn how to dress for success and the fundamentals of customer service and aviation passenger handling.</td>
+			</tr>
+		    <tr>
+				<td>Mobile App Design</td>
+				<td>Create your own mobile application through design innovation and AppInventor!</td>
 			</tr>
 			<tr>
-				<td>Manga Illustration</td>
-				<td>TBC</td>
+				<td>Mobile Game Building</td>
+				<td>Build your own mobile game using the ‘Unity’ engine.</td>
 			</tr>
 			<tr>
-				<td>Radio Deejaying</td>
-				<td>TBC</td>
+				<td>Public Speaking 101!</td>
+				<td>Overcome your fears in public speaking, and create a more confident you.</td>
 			</tr>
 			<tr>
-				<td>Animation/Photoshop</td>
-				<td>TBC</td>
+				<td>Robotics</td>
+				<td>Miniature tabletop gaming. Build Robots. Code. Conquer.</td>
+			</tr>
+			<tr>
+				<td>Sports Coaching</td>
+				<td>Design and execute a sports lesson plan with the use of IT.</td>
+			</tr>
+			<tr>
+				<td>Song-writing</td>
+				<td>Write and compose your own hit song with mentorship from celebrity artiste Nic Lee.</td>
+			</tr>
+			<tr>
+				<td>Stop Motion Photography</td>
+				<td>Freeze moments with photography, unfreeze photography with Stop Motion.</td>
+			</tr>
+			<tr>
+				<td>Website-Building</td>
+				<td>Learn how to take control of ‘Ruby’, and master the basics of building a website.</td>
+			</tr>
+			<tr>
+				<td>Zhnng Your Sound</td>
+				<td>Learn about how sound waves work and how to set up audio equipment for best effects.</td>
 			</tr>
 		</tbody>
 	</table>
